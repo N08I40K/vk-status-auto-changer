@@ -1,0 +1,5 @@
+Рандомное число: randomeasyy
+Друзей онлайн: friendsonline
+Дата: currdate Время: currtime
+Мои проекты: Heelo, world; test 1; test 2
+Циклов прошло: scriptcycles
